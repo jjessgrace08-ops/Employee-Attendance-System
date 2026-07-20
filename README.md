@@ -1,10 +1,5 @@
 # Employee-Attendance-System
-A MySQL-based employee attendance management system demonstrating database design, SQL queries, joins, and reporting.
-
-# Employee Attendance System
-
-## Overview
-Employee Attendance System is a MySQL database project designed to manage employee attendance records.
+A MySQL-based employee attendance management system demonstrating database design, SQL queries, joins, and reporting designed to manage employee attendance records.
 
 This project demonstrates:
 
@@ -15,8 +10,6 @@ This project demonstrates:
 - Aggregate Functions
 - Attendance Reporting
 
----
-
 ## Database Structure
 
 Tables:
@@ -26,10 +19,11 @@ Tables:
 
 
 ## Features
-
 - Store employee information
 - Record attendance
 - Calculate working hours
 - Count attendance
 - Display late employees
 - Join employee and attendance data
+
+
